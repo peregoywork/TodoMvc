@@ -1,3 +1,5 @@
-bin\
-.vscode
-obj\
+# ignoring large generated files
+
+.\bin\
+.\obj\
+.\.vscode
