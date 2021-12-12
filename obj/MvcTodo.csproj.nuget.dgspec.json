@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Data\\Documents\\GitHub\\TheRealMvcTodo\\MvcTodo.csproj": {}
+    "C:\\Users\\Data\\Documents\\GitHub\\TodoMvc\\MvcTodo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Data\\Documents\\GitHub\\TheRealMvcTodo\\MvcTodo.csproj": {
+    "C:\\Users\\Data\\Documents\\GitHub\\TodoMvc\\MvcTodo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Data\\Documents\\GitHub\\TheRealMvcTodo\\MvcTodo.csproj",
+        "projectUniqueName": "C:\\Users\\Data\\Documents\\GitHub\\TodoMvc\\MvcTodo.csproj",
         "projectName": "MvcTodo",
-        "projectPath": "C:\\Users\\Data\\Documents\\GitHub\\TheRealMvcTodo\\MvcTodo.csproj",
+        "projectPath": "C:\\Users\\Data\\Documents\\GitHub\\TodoMvc\\MvcTodo.csproj",
         "packagesPath": "C:\\Users\\Data\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Data\\Documents\\GitHub\\TheRealMvcTodo\\obj\\",
+        "outputPath": "C:\\Users\\Data\\Documents\\GitHub\\TodoMvc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Data\\AppData\\Roaming\\NuGet\\NuGet.Config"

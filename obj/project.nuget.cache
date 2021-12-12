@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TfGC7SmbVELkdy7sw0AB8vkymXm0eNclPRyQaJiRTCqoAWX5oUjYFxA3d1cQq30YPabj2BEcE0rAdZorntc5dQ==",
+  "dgSpecHash": "pnvwzoIj9EpbKoPdr2epVkSBUcxWkIwD+wKakAN/KzBEgiz/PNml1A3V+AJRCYovW5WrvHC9eHSnQMaBB0vmYA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Data\\Documents\\GitHub\\TheRealMvcTodo\\MvcTodo.csproj",
+  "projectFilePath": "C:\\Users\\Data\\Documents\\GitHub\\TodoMvc\\MvcTodo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Data\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Data\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
